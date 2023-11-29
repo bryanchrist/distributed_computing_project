@@ -1,2 +1,2 @@
-# distributed_computing_project
-Codebase for Distributed Computing class project.
+# Predicting Anxiety and Depression Among Latin American Teachers
+This is a codebase for the Distributed Computing class project titled: Predicting Anxiety and Depression Among Latin American Teachers. The purpose of this project is to build models for predicting anxiety and depression among a 2,004 sample of teachers from Latin America during the COVID-19 pandemic. The codebase includes Jupyter notebooks for exploring the data, preprocessing it, and building anxiety and depression models. We use random seeds throughout the code to ensure reproducibility. 
